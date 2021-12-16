@@ -1,6 +1,6 @@
 # Unix-like shell: fish
 
-We inrodeced a simple but powerful user-built unix-like shell in this repository.
+We inroduced a simple but powerful user-built unix-like shell in this repository.
 
 ## Environment 
 
@@ -37,4 +37,4 @@ make
 
 At this point, just enjoy it.
 
-Note: `fish` only support normal, input redirect, output redirect and pipe command   : )
+Note: `fish`(Version) only support normal, input redirect, output redirect and pipe command   : )
