@@ -37,4 +37,4 @@ make
 
 At this point, just enjoy it.
 
-Note: `fish`(Version) only support normal, input redirect, output redirect and pipe command   : )
+Note: `fish`(Version 0.1) only support normal, input redirect, output redirect and pipe command   : )
